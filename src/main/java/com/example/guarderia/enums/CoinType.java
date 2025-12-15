@@ -1,5 +1,8 @@
-package com.example.guarderia;
+package com.example.guarderia.enums;
 
+import com.example.guarderia.coins.CopperCoin;
+import com.example.guarderia.coins.GoldCoin;
+import com.example.guarderia.coins.SilverCoin;
 import com.example.guarderia.interfaces.CoinInterface;
 import lombok.Getter;
 import lombok.RequiredArgsConstructor;

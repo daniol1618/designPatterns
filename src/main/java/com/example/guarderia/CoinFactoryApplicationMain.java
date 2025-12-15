@@ -1,9 +1,11 @@
 package com.example.guarderia;
 
+import com.example.guarderia.enums.CoinType;
+import com.example.guarderia.factory.CoinFactory;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class GuarderiaApplication {
+public class CoinFactoryApplicationMain {
 
     public static void main(String[] args) {
         System.out.println("The alchemist begins his work.");

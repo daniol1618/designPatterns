@@ -1,10 +1,10 @@
-package com.example.guarderia;
+package com.example.guarderia.coins;
 
 import com.example.guarderia.interfaces.CoinInterface;
 
-public class SilverCoin implements CoinInterface {
+public class GoldCoin implements CoinInterface {
 
-    private final String coinType = "Silver";
+    private final String coinType = "Gold";
 
     @Override
     public String getDescription() {

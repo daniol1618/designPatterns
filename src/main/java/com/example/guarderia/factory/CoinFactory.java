@@ -1,5 +1,6 @@
-package com.example.guarderia;
+package com.example.guarderia.factory;
 
+import com.example.guarderia.enums.CoinType;
 import com.example.guarderia.interfaces.CoinInterface;
 
 public class CoinFactory {
